@@ -10,5 +10,5 @@ This corpus
 
 For the processed version html tags, expressions in brackets and some other tags are removed.
 
-Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu". 
+Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP".
 
