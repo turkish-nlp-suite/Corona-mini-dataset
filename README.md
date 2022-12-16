@@ -2,7 +2,8 @@
 
 This is a tiny Turkish corpus consisting of comments about Corona symptoms. The corpus is compiled from two headlines "covid-19 belirtileri" and "gün gün koronavirüs belirtileri": 
 
-https://eksisozluk.com/covid-19-belirtileri--6416646
+https://eksisozluk.com/covid-19-belirtileri--6416646  
+
 https://eksisozluk.com/gun-gun-koronavirus-belirtileri--6757665
 
 This corpus 
