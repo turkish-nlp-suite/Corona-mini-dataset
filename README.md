@@ -8,7 +8,7 @@ https://eksisozluk.com/gun-gun-koronavirus-belirtileri--6757665
 
 This corpus 
 
-- contains 178 comments
+- contains 178 raw, 175 processed comments
 - all comments are in Turkish
 - comes in 2 versions, raw and mildly processed.
 
