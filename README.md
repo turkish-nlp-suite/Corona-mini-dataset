@@ -14,5 +14,7 @@ This corpus
 
 For the processed version html tags, expressions in brackets and some other tags are removed.
 
-Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
+This work is supported by Google Developer Experts Program.
+
+Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
 
