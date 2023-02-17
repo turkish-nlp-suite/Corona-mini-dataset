@@ -33,6 +33,8 @@ Bu verisetini nasıl derlediğimi öğrenmek isterseniz, [Veriseti nasıl derlen
 Daha fazla Türkçe veriseti, model ve kod için [Türkçe NLP sitemi]() veya [bireysel sitemi](https://www.onlyduygu.com) ziyaret edebilirsiniz. 
 
 
+--------------
+
 This work is supported by Google Developer Experts Program.
 
 Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
