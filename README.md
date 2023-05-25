@@ -13,6 +13,14 @@ This corpus
 - comes in 2 versions, raw and mildly processed.
 
 For the processed version html tags, expressions in brackets and some other tags are removed.
+
+This dataset is available on [Huggingface](https://huggingface.co/datasets/turkish-nlp-suite/Corona-mini) as well, you can use it as:
+
+```
+from datasets import load_dataset
+dataset = load_dataset("turkish-nlp-suite/Corona-mini")
+```
+
 if you want more information about how this dataset is crafted you can watch the playlist [How to compile datasets](https://www.youtube.com/playlist?list=PLJTHlIwB8Vco4ONU_mCNOYIcVyFA9QrBr). For more Turkish NLP datasets, code and pretrained models you can either visit [fine Turkish NLP website](https://www.turkish-nlp-suite.com) or [my personal website](https://www.onlyduygu.com).
 
 
@@ -28,6 +36,13 @@ Bu veriseti
 - işlenmiş ve az işlanmiş olarak 2 farklı formatta sunulmaktadır.
 
 Az işlenmiş verisetini HTML taglerini, linkleri ve parantez içindeki bknz. türü ifadeleri çıkararak yaptım.
+Bu verisetini isterseniz [Huggingface'den de](https://huggingface.co/datasets/turkish-nlp-suite/Corona-mini) indirebilirsiniz:
+
+```
+from datasets import load_dataset
+
+dataset = load_dataset("turkish-nlp-suite/Corona-mini")
+```
 
 Bu verisetini nasıl derlediğimi öğrenmek isterseniz, [Veriseti nasıl derlenir?](https://www.youtube.com/playlist?list=PLJTHlIwB8Vco4ONU_mCNOYIcVyFA9QrBr) video serisini izleyebilirsiniz.
 Daha fazla Türkçe veriseti, model ve kod için [Türkçe NLP sitemi](https://www.turkish-nlp-suite.com) veya [bireysel sitemi](https://www.onlyduygu.com) ziyaret edebilirsiniz. 
