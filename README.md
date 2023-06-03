@@ -33,7 +33,7 @@ Bu veriseti
 
 - 178 işlenmemiş, 175 işlenmiş yorum içermektedir.
 - tüm yorumlar Türkçe'dir.
-- işlenmiş ve az işlanmiş olarak 2 farklı formatta sunulmaktadır.
+- işlenmiş ve az işlenmiş olarak 2 farklı formatta sunulmaktadır.
 
 Az işlenmiş verisetini HTML taglerini, linkleri ve parantez içindeki bknz. türü ifadeleri çıkararak yaptım.
 Bu verisetini isterseniz [Huggingface'den de](https://huggingface.co/datasets/turkish-nlp-suite/Corona-mini) indirebilirsiniz:
